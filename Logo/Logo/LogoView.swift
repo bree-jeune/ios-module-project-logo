@@ -8,6 +8,8 @@
 
 import UIKit
 
+@IBDesignable
+
 class LogoView: UIView {
     
 
